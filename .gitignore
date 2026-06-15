@@ -1,0 +1,13 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local build artifacts
+dist/
+build/
+node_modules/
+__pycache__/
+*.pyc
